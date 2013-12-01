@@ -26,3 +26,4 @@ module_init(entry_module);
 module_exit(bye_module);
 
 MODULE_LICENSE("GPL");
+MODULE_AUTHOR("Navkamal Rakra");
